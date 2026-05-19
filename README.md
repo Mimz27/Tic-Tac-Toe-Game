@@ -210,7 +210,11 @@ Through this project, the following skills were reinforced:
 
 # 👨‍💻 Author
 
-Myriam Trabelsi
+-Myriam Trabelsi
+-Mahdi Hanana
+-Zeineb Hmaied
+-Selim Youssef
+-Mounir Haydar
 
 ---
 
